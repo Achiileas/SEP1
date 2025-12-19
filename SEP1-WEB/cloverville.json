@@ -1,0 +1,474 @@
+{
+  "eventList": {
+    "events": []
+  },
+  "tradeOfferList": {
+    "offers": []
+  },
+  "communalTaskList": {
+    "tasks": [
+      {
+        "name": "Cook for Village",
+        "description": "Prepare a communal meal",
+        "points": 50
+      },
+      {
+        "name": "Clean Village Square",
+        "description": "Sweep and remove trash",
+        "points": 30
+      },
+      {
+        "name": "Maintain Garden",
+        "description": "Weed and water plants",
+        "points": 35
+      },
+      {
+        "name": "Repair Tools",
+        "description": "Fix shared tools",
+        "points": 25
+      },
+      {
+        "name": "Help Elderly",
+        "description": "Assist elderly residents",
+        "points": 40
+      },
+      {
+        "name": "Clean Forest Path",
+        "description": "Clear hiking path",
+        "points": 28
+      },
+      {
+        "name": "Maintain Water Source",
+        "description": "Clean village well",
+        "points": 48
+      },
+      {
+        "name": "Organize Event",
+        "description": "Plan community event",
+        "points": 32
+      },
+      {
+        "name": "Organize Storage",
+        "description": "Clean \u0026 sort storage",
+        "points": 22
+      },
+      {
+        "name": "Build Infrastructure",
+        "description": "Help with benches/paths",
+        "points": 45
+      }
+    ]
+  },
+  "greenActionList": {
+    "actions": [
+      {
+        "name": "Use Bicycle for a Week",
+        "description": "Use bike instead of car",
+        "pointsGiven": 40,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Eat Vegan for a Week",
+        "description": "Plant-based meals only",
+        "pointsGiven": 35,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "No Plastic Week",
+        "description": "Avoid single-use plastic",
+        "pointsGiven": 30,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Public Transport Week",
+        "description": "Only buses/trams/trains",
+        "pointsGiven": 25,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Home Energy Saver",
+        "description": "Reduce electricity",
+        "pointsGiven": 20,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Plant a Tree",
+        "description": "Plant one tree",
+        "pointsGiven": 50,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Zero Food Waste Week",
+        "description": "No food thrown away",
+        "pointsGiven": 45,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Reusable Bottle Week",
+        "description": "No disposable bottles",
+        "pointsGiven": 22,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Neighborhood Clean-Up",
+        "description": "Collect trash outdoors",
+        "pointsGiven": 48,
+        "approved": false,
+        "filterNames": []
+      },
+      {
+        "name": "Short Showers Week",
+        "description": "Max 5 min showers",
+        "pointsGiven": 28,
+        "approved": false,
+        "filterNames": []
+      }
+    ]
+  },
+  "residentList": {
+    "residents": [
+      {
+        "name": "Lucas Merritt",
+        "email": "lucas.merritt@mail.com",
+        "phoneNumber": "58210467",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Aria Thompson",
+        "email": "aria.thompson@mail.com",
+        "phoneNumber": "73918520",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Nathan Cole",
+        "email": "nathan.cole@mail.com",
+        "phoneNumber": "81462957",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Emily Johnson",
+        "email": "emily.johnson@mail.com",
+        "phoneNumber": "98765432",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Michael Williams",
+        "email": "michael.williams@mail.com",
+        "phoneNumber": "34567890",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Sarah Taylor",
+        "email": "sarah.taylor@mail.com",
+        "phoneNumber": "45678901",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Mia Delgado",
+        "email": "mia.delgado@mail.com",
+        "phoneNumber": "92375148",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Oliver Hayes",
+        "email": "oliver.hayes@mail.com",
+        "phoneNumber": "67482951",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Zoe Patel",
+        "email": "zoe.patel@mail.com",
+        "phoneNumber": "75829164",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Ethan Granger",
+        "email": "ethan.granger@mail.com",
+        "phoneNumber": "89261475",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Layla Rivera",
+        "email": "layla.rivera@mail.com",
+        "phoneNumber": "63572019",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Henry Lawson",
+        "email": "henry.lawson@mail.com",
+        "phoneNumber": "70418526",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Ava Monroe",
+        "email": "ava.monroe@mail.com",
+        "phoneNumber": "86194725",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Jackson Reid",
+        "email": "jackson.reid@mail.com",
+        "phoneNumber": "52981647",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Liam Brooks",
+        "email": "liam.brooks@mail.com",
+        "phoneNumber": "69357184",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Chloe Simmons",
+        "email": "chloe.simmons@mail.com",
+        "phoneNumber": "81049263",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Mason Clark",
+        "email": "mason.clark@mail.com",
+        "phoneNumber": "95761482",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Sophia Grant",
+        "email": "sophia.grant@mail.com",
+        "phoneNumber": "62849157",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Leo Bennett",
+        "email": "leo.bennett@mail.com",
+        "phoneNumber": "73450916",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Nora Carter",
+        "email": "nora.carter@mail.com",
+        "phoneNumber": "89572043",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Dylan Matthews",
+        "email": "dylan.matthews@mail.com",
+        "phoneNumber": "51739824",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Isla Parker",
+        "email": "isla.parker@mail.com",
+        "phoneNumber": "64028179",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Aaron Wolfe",
+        "email": "aaron.wolfe@mail.com",
+        "phoneNumber": "78349250",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Ruby Flores",
+        "email": "ruby.flores@mail.com",
+        "phoneNumber": "94285730",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Gabriel Shaw",
+        "email": "gabriel.shaw@mail.com",
+        "phoneNumber": "61578324",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Stella Morgan",
+        "email": "stella.morgan@mail.com",
+        "phoneNumber": "70396412",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Julian Price",
+        "email": "julian.price@mail.com",
+        "phoneNumber": "87412053",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Hazel Kim",
+        "email": "hazel.kim@mail.com",
+        "phoneNumber": "59247831",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Samuel Ortiz",
+        "email": "samuel.ortiz@mail.com",
+        "phoneNumber": "81653074",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Violet Hughes",
+        "email": "violet.hughes@mail.com",
+        "phoneNumber": "73952018",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Adrian Blake",
+        "email": "adrian.blake@mail.com",
+        "phoneNumber": "90578421",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Maya Chavez",
+        "email": "maya.chavez@mail.com",
+        "phoneNumber": "68421957",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Ryan Cooper",
+        "email": "ryan.cooper@mail.com",
+        "phoneNumber": "72139854",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Ella Reed",
+        "email": "ella.reed@mail.com",
+        "phoneNumber": "69310247",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Benjamin Scott",
+        "email": "benjamin.scott@mail.com",
+        "phoneNumber": "80421539",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Victoria Hill",
+        "email": "victoria.hill@mail.com",
+        "phoneNumber": "65710234",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Owen Rogers",
+        "email": "owen.rogers@mail.com",
+        "phoneNumber": "73249518",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Lily Martinez",
+        "email": "lily.martinez@mail.com",
+        "phoneNumber": "91427530",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Jacob Hall",
+        "email": "jacob.hall@mail.com",
+        "phoneNumber": "82531947",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Scarlett Adams",
+        "email": "scarlett.adams@mail.com",
+        "phoneNumber": "50192384",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      },
+      {
+        "name": "Elijah Brooks",
+        "email": "elijah.brooks@mail.com",
+        "phoneNumber": "84120597",
+        "pointsAccount": 0,
+        "communalTasks": [],
+        "greenActions": []
+      }
+    ]
+  },
+  "communalPool": {
+    "totalPoints": 0,
+    "greenActionsDone": 0,
+    "fixedValue": 200,
+    "thresholdReached": false
+  }
+}

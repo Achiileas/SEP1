@@ -1,0 +1,149 @@
+/* Reset */
+ * { 
+    margin: 0;
+  padding: 0;
+box-sizing: border-box;
+ font-family: Arial, sans-serif;
+} 
+
+/* Container */
+.container {
+    width: 90%;
+    margin: 30px auto;
+}
+
+/* Intro paragraph */
+.intro {
+    font-size: 18px;
+    line-height: 1.7;
+    margin-bottom: 25px;
+    color: #333;
+}
+
+/* Points Boxes */
+.points-box {
+    background: #e8ffe8;
+    border: 2px solid #34c759;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+    text-align: center;
+}
+
+.points-box h3 {
+    color: #1e8449;
+    margin-bottom: 10px;
+}
+
+.points-box p {
+    font-size: 32px;
+    font-weight: bold;
+    color: #28a745;
+}
+
+.points-box small {
+    color: #555;
+}
+
+.rewards-box {
+    background: linear-gradient(135deg, #e8ffe8 0%, #f4fff4 100%);
+    border: 2px solid #34c759;
+    border-radius: 14px;
+    padding: 20px;
+    margin-bottom: 20px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.05);
+}
+
+.rewards-box h3 {
+    color: #1e8449;
+    margin-bottom: 12px;
+}
+
+.rewards-list {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 10px 0;
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+    gap: 12px;
+}
+
+.rewards-list li {
+    background: white;
+    border: 1px solid #d8f5dc;
+    border-radius: 10px;
+    padding: 12px 14px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    color: #1e8449;
+    font-weight: 600;
+    box-shadow: 0 2px 6px rgba(0, 0, 0, 0.04);
+}
+
+.reward-name {
+    font-size: 15px;
+}
+
+.reward-points {
+    background: #27ae60;
+    color: #fff;
+    padding: 4px 10px;
+    border-radius: 12px;
+    font-size: 13px;
+    min-width: 70px;
+    text-align: center;
+}
+
+/* Tasks Box */
+.tasks-box {
+    background: #f0fff4;
+    border: 2px solid #27ae60;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.tasks-box h3 {
+    color: #1e8449;
+    margin-bottom: 12px;
+}
+
+.tasks-box ul {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-left: 18px;
+}
+
+/* Inspirational Actions Box */
+.actions-box {
+    background: #f0fff4;
+    border: 2px solid #27ae60;
+    border-radius: 12px;
+    padding: 20px;
+    margin-bottom: 20px;
+}
+
+.actions-box h3 {
+    color: #1e8449;
+    margin-bottom: 12px;
+}
+
+.actions-box ul {
+    font-size: 16px;
+    line-height: 1.8;
+    margin-left: 18px;
+}
+
+/* Responsive */
+@media (max-width: 600px) {
+    .intro {
+        font-size: 16px;
+    }
+    .points-box p {
+        font-size: 26px;
+    }
+    .tasks-box ul, .actions-box ul {
+        font-size: 15px;
+    }
+}
